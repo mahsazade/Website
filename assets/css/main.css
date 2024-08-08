@@ -52,7 +52,7 @@ body {
 
 mark {
 	background-color: transparent;
-	color: 000F4D;
+	color: #000F4D;
 }
 
 input::-moz-focus-inner {
